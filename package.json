@@ -1,0 +1,12 @@
+{
+  "name": "patrix",
+  "version": "1.0.0",
+  "description": "Appllied Bootstrap 5 with Scss for patrix website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "skyz03",
+  "license": "ISC"
+}
