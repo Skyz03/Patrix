@@ -11471,7 +11471,7 @@ textarea.form-control-lg {
 
 .footer {
   padding-top: 1rem;
-  background-color: #151414;
+  background-color: #9926f0;
 }
 
 .contact-box {
@@ -11479,7 +11479,7 @@ textarea.form-control-lg {
 }
 .contact-box__icon {
   width: 2rem;
-  stroke: #9926f0;
+  stroke: #fff;
   padding-top: 0.5rem;
 }
 @media (min-width: 576px) {
@@ -11503,7 +11503,7 @@ textarea.form-control-lg {
 }
 .contact-box__info--subtitle {
   font-size: 0.8rem;
-  color: #6c757d;
+  color: #fff;
   text-decoration: none;
 }
 @media (min-width: 576px) {
@@ -11518,6 +11518,10 @@ textarea.form-control-lg {
 .footer-sm a i {
   font-size: 1rem;
   margin-left: 1rem;
+}
+.footer-sm a i:hover {
+  color: #9926f0;
+  transform: scale(1.5);
 }
 @media (min-width: 576px) {
   .footer-sm a i {
@@ -11539,7 +11543,7 @@ textarea.form-control-lg {
   text-decoration: none;
 }
 .company-list li a:hover {
-  color: #9926f0;
+  font-weight: 700;
 }
 
 .footer-bottom {
