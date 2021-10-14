@@ -11244,7 +11244,7 @@ textarea.form-control-lg {
 }
 .menu li a {
   color: #fff !important;
-  text-transform: capitalize;
+  text-transform: uppercase;
   font-weight: 600;
 }
 
@@ -11321,7 +11321,7 @@ textarea.form-control-lg {
   }
 }
 .services__content .icon {
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: #9926f0;
 }
 @media (min-width: 992px) {
@@ -11410,6 +11410,7 @@ textarea.form-control-lg {
 .portfolio-box .portfolio-info .caption {
   text-align: center;
   color: #fff;
+  cursor: pointer;
   position: absolute;
   top: 50%;
   left: 50%;
